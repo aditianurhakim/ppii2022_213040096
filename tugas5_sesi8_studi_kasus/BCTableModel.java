@@ -33,4 +33,9 @@ public class BCTableModel extends AbstractTableModel {
         data.add(value);
         fireTableRowsInserted(data.size() - 1, data.size() - 1);
     }
+
+    public void removeRow(int row) {
+        data.remove(row);
+        fireTableRowsDeleted(row, row);
+    }
 }

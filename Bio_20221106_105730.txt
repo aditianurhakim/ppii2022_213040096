@@ -1,0 +1,2 @@
+Nama,Jenis Kelamin,Nomor HP,Alamat Rumah
+Aditia Nurhakim,Laki-Laki,082387231371,Jl. Sukahaji No. 131 A

@@ -1,0 +1,5 @@
+Nama,Jenis Kelamin,Nomor HP,Alamat Rumah
+Aditia Nurhakim,Laki-Laki,082387231371,Jl. Sukahaji No. 131 A
+Ghaniyya Sarah Al-Hakim,Perempuan,081122223333,Jl. Sukahaji No. 131 A
+Muhammad Arslan,Laki-Laki,082244445555,Jl. Cihanjuang Atas. No. 1
+Ciya Sabine,Perempuan,089977776666,Jl. Cihanjuang Atas No. 5
