@@ -1,0 +1,2 @@
+Nama,Jenis Kelamin,Nomor HP,Alamat Rumah
+Abadi Alfin,Laki-Laki,081199995555,Jl. Gegerkalong Hilir No. 1
