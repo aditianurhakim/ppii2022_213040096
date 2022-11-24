@@ -1,0 +1,3 @@
+Nama,Jenis Kelamin,Nomor HP,Alamat Rumah
+Ekspor,Perempuan,123123,fasdfasd
+Pantai,Laki-Laki,123123,Besok
